@@ -1,0 +1,228 @@
+
+.unibuy:hover  {
+    background-color: #F3AB29;
+    color: #fff;
+}
+
+
+.navbar {
+    border-bottom: 3px solid #fff;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.unibuy {
+    background-color: #F3AB29;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0;
+    height: 2.6rem;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+}
+
+.address {
+    font-size: 12px;
+}
+
+
+.boxcontainer {
+    border: 1px solid;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #fff;
+} 
+
+.pnutimg {
+    height:200px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+
+.squirelheadpara {
+    margin-left: 20px;
+}
+
+.tokenics{
+    margin-top: 33px;
+    border-radius: 90px;
+    width: 328px;
+    margin-bottom: 6px;
+}
+
+.btnhome {
+    background-color: #F3AB29;
+    margin-left: 10px;
+    width: 10rem;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #262626;
+    padding-top: 20px;
+}
+
+
+.coingecko {
+    width: 300px;
+}
+
+.forbes {
+    width: 230px;
+    padding-top: 20px;
+}
+
+.cmcimage {
+    margin-top : 19px;
+    margin-left: 20px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.gecko {
+    margin-top: 15px;
+    width: 290px;
+    margin-left: 25px;
+}
+
+.footer-content {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 15px;
+}
+
+.faicon {
+    font-size: 2rem;
+    color: #fff;
+    margin-top: 14px;
+    margin-left: 100px;
+}
+
+
+@media (min-width: 768px) {
+    .navbar {
+        border-bottom: 3px solid #fff;
+    }
+    
+    .navbar-brand {
+        color: #fff;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    
+    .unibuy {
+        background-color: #F3AB29;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 0;
+        height: 2.6rem;
+        margin-right: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: #fff;
+    }
+    
+    .faicon {
+        font-size: 2rem;
+        color: #fff;
+        margin-left: 0;
+        margin-top: 0%;
+    }
+    
+    .boxcontainer {
+        border: 1px solid;
+        margin-left: 100px;
+        margin-right: 170px;
+        background-color: #fff;
+    } 
+    
+    
+    h4 {
+        font-size: 40px;
+        font-weight: bold;
+        font-style: normal;
+    }
+    
+    
+    p {
+        font-size: 18px;
+    }
+    
+    
+    .pnutimg {
+        height:300px;
+        margin-top: 170px;
+        margin-left: 80px;
+        border-radius: 50px;
+    }
+
+    .address {
+        font-size: 19px;
+    }
+    
+    .btnhome {
+        background-color: #F3AB29;
+        margin-left: 10px;
+        width: 15rem;
+        border-radius: 20px;
+        font-weight: bold;
+    }
+    
+    .squirelheadpara {
+        margin-left: 30px;
+    }
+    
+    .tokenics{
+        margin-top: 33px;
+        border-radius: 90px;
+        width: 63rem;
+        margin-bottom: 20px;
+    }
+    
+    .footer {
+        background-color: #262626;
+        padding-top: 20px;
+    }
+    
+    .forbes {
+        width: 130px;
+        padding-top: 20px;
+    }
+    
+    .cmcimage {
+        margin-left: 20px;
+        width: 80px;
+        border-radius: 50%;
+    }
+
+    .coingecko {
+        width: 200px;
+    }   
+    
+    .gecko {
+        margin-top: 15px;
+        width: 270px;
+        margin-left: 25px;
+    }
+    
+    .footer-content {
+        color: #fff;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+}
